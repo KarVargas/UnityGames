@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 77e4204e8f41f874a953114d2251de11
+timeCreated: 1455563618
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: backgournd_forest
+    21300002: middleground_forest
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: backgournd_forest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143
+        width: 4096
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 149}
+        - {x: -96, y: 149}
+        - {x: -97, y: 148}
+        - {x: -525, y: 148}
+        - {x: -526, y: 149}
+        - {x: -542, y: 149}
+        - {x: -544, y: 148}
+        - {x: -1024, y: 148}
+        - {x: -1024, y: -148}
+        - {x: 1024, y: -148}
+        - {x: 1024, y: 148}
+        - {x: -80, y: 148}
+    - name: middleground_forest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 4096
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1015, y: 49.5}
+        - {x: 1004, y: 53.5}
+        - {x: 954, y: 69.5}
+        - {x: 954, y: 79.5}
+        - {x: 952, y: 81.5}
+        - {x: 909, y: 81.5}
+        - {x: 903, y: 78.5}
+        - {x: 886, y: 67.5}
+        - {x: 874, y: 57.5}
+        - {x: 873, y: 53.5}
+        - {x: 873, y: 44.5}
+        - {x: 876, y: 41.5}
+        - {x: 876, y: 29.5}
+        - {x: 875, y: 39.5}
+        - {x: 870, y: 48.5}
+        - {x: 865, y: 53.5}
+        - {x: 829, y: 53.5}
+        - {x: 831, y: 57.5}
+        - {x: 829, y: 64.5}
+        - {x: 821, y: 61.5}
+        - {x: 797, y: 39.5}
+        - {x: 769, y: 39.5}
+        - {x: 766, y: 37.5}
+        - {x: 761, y: 28.5}
+        - {x: 759, y: 17.5}
+        - {x: 759, y: 11.5}
+        - {x: 760, y: 8.5}
+        - {x: 757, y: 13.5}
+        - {x: 758, y: 38.5}
+        - {x: 753, y: 42.5}
+        - {x: 709, y: 47.5}
+        - {x: 699, y: 38.5}
+        - {x: 691, y: 42.5}
+        - {x: 684, y: 40.5}
+        - {x: 670, y: 13.5}
+        - {x: 664, y: -0.5}
+        - {x: 626, y: 1.5}
+        - {x: 592, y: 35.5}
+        - {x: 554, y: 37.5}
+        - {x: 544, y: 23.5}
+        - {x: 536, y: 43.5}
+        - {x: 531, y: 48.5}
+        - {x: 509, y: 65.5}
+        - {x: 504, y: 66.5}
+        - {x: 465, y: 66.5}
+        - {x: 452, y: 71.5}
+        - {x: 416, y: 83.5}
+        - {x: 368, y: 83.5}
+        - {x: 311, y: 64.5}
+        - {x: 308, y: 62.5}
+        - {x: 252, y: 81.5}
+        - {x: 242, y: 84.5}
+        - {x: 243, y: 96.5}
+        - {x: 239, y: 98.5}
+        - {x: 188, y: 98.5}
+        - {x: 154, y: 74.5}
+        - {x: 153, y: 58.5}
+        - {x: 160, y: 52.5}
+        - {x: 155, y: 42.5}
+        - {x: 155, y: 54.5}
+        - {x: 146, y: 68.5}
+        - {x: 101, y: 69.5}
+        - {x: 84, y: 64.5}
+        - {x: 63, y: 47.5}
+        - {x: 61, y: 36.5}
+        - {x: 49, y: 39.5}
+        - {x: 48, y: 53.5}
+        - {x: 36, y: 65.5}
+        - {x: 12, y: 72.5}
+        - {x: -13, y: 77.5}
+        - {x: -21, y: 78.5}
+        - {x: -60, y: 71.5}
+        - {x: -103, y: 55.5}
+        - {x: -106, y: 53.5}
+        - {x: -109, y: 42.5}
+        - {x: -121, y: 35.5}
+        - {x: -133, y: 51.5}
+        - {x: -150, y: 55.5}
+        - {x: -217, y: 82.5}
+        - {x: -220, y: 78.5}
+        - {x: -225, y: 66.5}
+        - {x: -225, y: 80.5}
+        - {x: -226, y: 83.5}
+        - {x: -235, y: 82.5}
+        - {x: -277, y: 69.5}
+        - {x: -309, y: 63.5}
+        - {x: -321, y: 63.5}
+        - {x: -353, y: 70.5}
+        - {x: -381, y: 90.5}
+        - {x: -392, y: 98.5}
+        - {x: -438, y: 98.5}
+        - {x: -439, y: 97.5}
+        - {x: -439, y: 75.5}
+        - {x: -433, y: 55.5}
+        - {x: -452, y: 68.5}
+        - {x: -517, y: 68.5}
+        - {x: -524, y: 66.5}
+        - {x: -558, y: 37.5}
+        - {x: -561, y: 33.5}
+        - {x: -592, y: 33.5}
+        - {x: -595, y: 28.5}
+        - {x: -602, y: 10.5}
+        - {x: -600, y: 32.5}
+        - {x: -606, y: 35.5}
+        - {x: -652, y: 40.5}
+        - {x: -662, y: 30.5}
+        - {x: -672, y: 36.5}
+        - {x: -695, y: -5.5}
+        - {x: -730, y: -4.5}
+        - {x: -735, y: -2.5}
+        - {x: -765, y: 26.5}
+        - {x: -768, y: 27.5}
+        - {x: -801, y: 27.5}
+        - {x: -808, y: 21.5}
+        - {x: -822, y: 37.5}
+        - {x: -849, y: 55.5}
+        - {x: -888, y: 55.5}
+        - {x: -931, y: 69.5}
+        - {x: -976, y: 68.5}
+        - {x: -982, y: 67.5}
+        - {x: -1015, y: 56.5}
+        - {x: -1024, y: 52.5}
+        - {x: -1024, y: -97.5}
+        - {x: 1024, y: -97.5}
+        - {x: 1024, y: 51.5}
+        - {x: 1021, y: 51.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

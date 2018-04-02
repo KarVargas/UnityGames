@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 665734655c6dab141872200857fb7e71
+timeCreated: 1522629906
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bachelor Pad College JL
+  fontNames:
+  - Bachelor Pad College JL
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

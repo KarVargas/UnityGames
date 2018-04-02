@@ -1,0 +1,2419 @@
+fileFormatVersion: 2
+guid: 1cf42f290504b294a9fad374c9e248c3
+timeCreated: 1520260966
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mgzxxmhd_0
+    21300002: mgzxxmhd_1
+    21300004: mgzxxmhd_2
+    21300006: mgzxxmhd_3
+    21300008: mgzxxmhd_4
+    21300010: mgzxxmhd_5
+    21300012: mgzxxmhd_6
+    21300014: mgzxxmhd_7
+    21300016: mgzxxmhd_8
+    21300018: mgzxxmhd_9
+    21300020: mgzxxmhd_10
+    21300022: mgzxxmhd_11
+    21300024: mgzxxmhd_12
+    21300026: mgzxxmhd_13
+    21300028: mgzxxmhd_14
+    21300030: mgzxxmhd_15
+    21300032: mgzxxmhd_16
+    21300034: mgzxxmhd_17
+    21300036: mgzxxmhd_18
+    21300038: mgzxxmhd_19
+    21300040: mgzxxmhd_20
+    21300042: mgzxxmhd_21
+    21300044: mgzxxmhd_22
+    21300046: mgzxxmhd_23
+    21300048: mgzxxmhd_24
+    21300050: mgzxxmhd_25
+    21300052: mgzxxmhd_26
+    21300054: mgzxxmhd_27
+    21300056: mgzxxmhd_28
+    21300058: mgzxxmhd_29
+    21300060: mgzxxmhd_30
+    21300062: mgzxxmhd_31
+    21300064: mgzxxmhd_32
+    21300066: mgzxxmhd_33
+    21300068: mgzxxmhd_34
+    21300070: mgzxxmhd_35
+    21300072: mgzxxmhd_36
+    21300074: mgzxxmhd_37
+    21300076: mgzxxmhd_38
+    21300078: mgzxxmhd_39
+    21300080: mgzxxmhd_40
+    21300082: mgzxxmhd_41
+    21300084: mgzxxmhd_42
+    21300086: mgzxxmhd_43
+    21300088: mgzxxmhd_44
+    21300090: mgzxxmhd_45
+    21300092: mgzxxmhd_46
+    21300094: mgzxxmhd_47
+    21300096: mgzxxmhd_48
+    21300098: mgzxxmhd_49
+    21300100: mgzxxmhd_50
+    21300102: mgzxxmhd_51
+    21300104: mgzxxmhd_52
+    21300106: mgzxxmhd_53
+    21300108: mgzxxmhd_54
+    21300110: mgzxxmhd_55
+    21300112: mgzxxmhd_56
+    21300114: mgzxxmhd_57
+    21300116: mgzxxmhd_58
+    21300118: mgzxxmhd_59
+    21300120: mgzxxmhd_60
+    21300122: mgzxxmhd_61
+    21300124: mgzxxmhd_62
+    21300126: mgzxxmhd_63
+    21300128: mgzxxmhd_64
+    21300130: mgzxxmhd_65
+    21300132: mgzxxmhd_66
+    21300134: mgzxxmhd_67
+    21300136: mgzxxmhd_68
+    21300138: mgzxxmhd_69
+    21300140: mgzxxmhd_70
+    21300142: mgzxxmhd_71
+    21300144: mgzxxmhd_72
+    21300146: mgzxxmhd_73
+    21300148: mgzxxmhd_74
+    21300150: mgzxxmhd_75
+    21300152: mgzxxmhd_76
+    21300154: mgzxxmhd_77
+    21300156: mgzxxmhd_78
+    21300158: mgzxxmhd_79
+    21300160: mgzxxmhd_80
+    21300162: mgzxxmhd_81
+    21300164: mgzxxmhd_82
+    21300166: mgzxxmhd_83
+    21300168: mgzxxmhd_84
+    21300170: mgzxxmhd_85
+    21300172: mgzxxmhd_86
+    21300174: mgzxxmhd_87
+    21300176: mgzxxmhd_88
+    21300178: mgzxxmhd_89
+    21300180: mgzxxmhd_90
+    21300182: mgzxxmhd_91
+    21300184: mgzxxmhd_92
+    21300186: mgzxxmhd_93
+    21300188: mgzxxmhd_94
+    21300190: mgzxxmhd_95
+    21300192: mgzxxmhd_96
+    21300194: mgzxxmhd_97
+    21300196: mgzxxmhd_98
+    21300198: mgzxxmhd_99
+    21300200: mgzxxmhd_100
+    21300202: mgzxxmhd_101
+    21300204: mgzxxmhd_102
+    21300206: mgzxxmhd_103
+    21300208: mgzxxmhd_104
+    21300210: mgzxxmhd_105
+    21300212: mgzxxmhd_106
+    21300214: mgzxxmhd_107
+    21300216: mgzxxmhd_108
+    21300218: mgzxxmhd_109
+    21300220: mgzxxmhd_110
+    21300222: mgzxxmhd_111
+    21300224: mgzxxmhd_112
+    21300226: mgzxxmhd_113
+    21300228: mgzxxmhd_114
+    21300230: mgzxxmhd_115
+    21300232: mgzxxmhd_116
+    21300234: mgzxxmhd_117
+    21300236: mgzxxmhd_118
+    21300238: mgzxxmhd_119
+    21300240: mgzxxmhd_120
+    21300242: mgzxxmhd_121
+    21300244: mgzxxmhd_122
+    21300246: mgzxxmhd_123
+    21300248: mgzxxmhd_124
+    21300250: mgzxxmhd_125
+    21300252: mgzxxmhd_126
+    21300254: mgzxxmhd_127
+    21300256: mgzxxmhd_128
+    21300258: mgzxxmhd_129
+    21300260: mgzxxmhd_130
+    21300262: mgzxxmhd_131
+    21300264: mgzxxmhd_132
+    21300266: mgzxxmhd_133
+    21300268: mgzxxmhd_134
+    21300270: mgzxxmhd_135
+    21300272: mgzxxmhd_136
+    21300274: mgzxxmhd_137
+    21300276: mgzxxmhd_138
+    21300278: mgzxxmhd_139
+    21300280: mgzxxmhd_140
+    21300282: mgzxxmhd_141
+    21300284: mgzxxmhd_142
+    21300286: mgzxxmhd_143
+    21300288: mgzxxmhd_144
+    21300290: mgzxxmhd_145
+    21300292: mgzxxmhd_146
+    21300294: mgzxxmhd_147
+    21300296: mgzxxmhd_148
+    21300298: mgzxxmhd_149
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mgzxxmhd_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 874
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 874
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 873
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 873
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 873
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 873
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 865.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 870
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 880
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 871
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 871
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_11
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 870
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_12
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 880
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_13
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 870
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_14
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 869
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 810
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 809
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 808
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 811
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 809
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 805
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 806
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 769.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_24
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 769.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 769.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 777
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_27
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 769.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_28
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 769.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_29
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 769.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 744
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 750
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 750
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 759
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 750
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 751
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 744
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 746
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 746
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_39
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 673.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_40
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 673.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_41
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 673.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_42
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 673.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_43
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 673.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_44
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 673.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_49
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_50
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_52
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_53
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_54
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_55
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_56
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_57
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_58
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_59
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 577.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_68
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_70
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_71
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_72
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_73
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_74
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 481.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_77
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_78
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_79
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_80
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_81
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_82
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_83
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_84
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_85
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_86
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_87
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_88
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_89
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 385.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_91
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_92
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_94
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_95
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_96
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_97
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_98
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_99
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_100
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_101
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_102
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_103
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_104
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 289.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_106
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_107
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_108
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_109
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_110
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_111
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_112
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_113
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_114
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_115
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_116
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_117
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_118
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_119
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 193.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_121
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_122
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_123
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_124
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_125
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_126
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_127
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_128
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_129
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_130
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_131
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_132
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_133
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_134
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 97.8
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_136
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_137
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_138
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_139
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_140
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_141
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_142
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_143
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_144
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_145
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_146
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_147
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_148
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mgzxxmhd_149
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1.800003
+        width: 55.4
+        height: 96.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -415.5, y: 481}
+      - {x: -415.5, y: -481}
+      - {x: 415.5, y: -481}
+      - {x: 415.5, y: 481}
+    - - {x: -380.15292, y: 390.9154}
+      - {x: -380.15292, y: 450.97156}
+      - {x: -337.01404, y: 450.97156}
+      - {x: -337.01404, y: 390.9154}
+    - - {x: -331.51593, y: 390.4925}
+      - {x: -331.51593, y: 448.43396}
+      - {x: -291.33752, y: 448.43396}
+      - {x: -291.33752, y: 390.4925}
+    - - {x: -285.4165, y: 390.06958}
+      - {x: -285.4165, y: 445.05054}
+      - {x: -243.96933, y: 445.05054}
+      - {x: -243.96933, y: 390.06958}
+    - - {x: -237.20244, y: 391.33838}
+      - {x: -237.20244, y: 439.97534}
+      - {x: -197.02403, y: 439.97534}
+      - {x: -197.02403, y: 391.33838}
+    - - {x: -189.41129, y: 391.7613}
+      - {x: -189.41129, y: 440.82123}
+      - {x: -150.92462, y: 440.82123}
+      - {x: -150.92462, y: 391.7613}
+    - - {x: -142.88895, y: 390.4925}
+      - {x: -142.88895, y: 443.78174}
+      - {x: -106.51691, y: 443.78174}
+      - {x: -106.51691, y: 390.4925}
+    physicsShape:
+    - - {x: -415.5, y: 481}
+      - {x: -415.5, y: -481}
+      - {x: 415.5, y: -481}
+      - {x: 415.5, y: 481}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
