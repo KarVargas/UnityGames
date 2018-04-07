@@ -1,0 +1,2217 @@
+fileFormatVersion: 2
+guid: 0e12ffed48acf994f9360349d15f8974
+timeCreated: 1522850671
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NDS_NSSR_pain_0
+    21300002: NDS_NSSR_pain_1
+    21300004: NDS_NSSR_pain_2
+    21300006: NDS_NSSR_pain_3
+    21300008: NDS_NSSR_pain_4
+    21300010: NDS_NSSR_pain_5
+    21300012: NDS_NSSR_pain_6
+    21300014: NDS_NSSR_pain_7
+    21300016: NDS_NSSR_pain_8
+    21300018: NDS_NSSR_pain_9
+    21300020: NDS_NSSR_pain_10
+    21300022: NDS_NSSR_pain_11
+    21300024: NDS_NSSR_pain_12
+    21300026: NDS_NSSR_pain_13
+    21300028: NDS_NSSR_pain_14
+    21300030: NDS_NSSR_pain_15
+    21300032: NDS_NSSR_pain_16
+    21300034: NDS_NSSR_pain_17
+    21300036: NDS_NSSR_pain_18
+    21300038: NDS_NSSR_pain_19
+    21300040: NDS_NSSR_pain_20
+    21300042: NDS_NSSR_pain_21
+    21300044: NDS_NSSR_pain_22
+    21300046: NDS_NSSR_pain_23
+    21300048: NDS_NSSR_pain_24
+    21300050: NDS_NSSR_pain_25
+    21300052: NDS_NSSR_pain_26
+    21300054: NDS_NSSR_pain_27
+    21300056: NDS_NSSR_pain_28
+    21300058: NDS_NSSR_pain_29
+    21300060: NDS_NSSR_pain_30
+    21300062: NDS_NSSR_pain_31
+    21300064: NDS_NSSR_pain_32
+    21300066: NDS_NSSR_pain_33
+    21300068: NDS_NSSR_pain_34
+    21300070: NDS_NSSR_pain_35
+    21300072: NDS_NSSR_pain_36
+    21300074: NDS_NSSR_pain_37
+    21300076: NDS_NSSR_pain_38
+    21300078: NDS_NSSR_pain_39
+    21300080: NDS_NSSR_pain_40
+    21300082: NDS_NSSR_pain_41
+    21300084: NDS_NSSR_pain_42
+    21300086: NDS_NSSR_pain_43
+    21300088: NDS_NSSR_pain_44
+    21300090: NDS_NSSR_pain_45
+    21300092: NDS_NSSR_pain_46
+    21300094: NDS_NSSR_pain_50
+    21300096: NDS_NSSR_pain_51
+    21300098: NDS_NSSR_pain_52
+    21300100: NDS_NSSR_pain_53
+    21300102: NDS_NSSR_pain_54
+    21300104: NDS_NSSR_pain_55
+    21300106: NDS_NSSR_pain_56
+    21300108: NDS_NSSR_pain_57
+    21300110: NDS_NSSR_pain_58
+    21300112: NDS_NSSR_pain_59
+    21300114: NDS_NSSR_pain_60
+    21300116: NDS_NSSR_pain_61
+    21300118: NDS_NSSR_pain_62
+    21300120: NDS_NSSR_pain_63
+    21300122: NDS_NSSR_pain_64
+    21300124: NDS_NSSR_pain_65
+    21300126: NDS_NSSR_pain_66
+    21300128: NDS_NSSR_pain_67
+    21300130: NDS_NSSR_pain_68
+    21300132: NDS_NSSR_pain_69
+    21300134: NDS_NSSR_pain_70
+    21300136: NDS_NSSR_pain_71
+    21300138: NDS_NSSR_pain_72
+    21300140: NDS_NSSR_pain_73
+    21300142: NDS_NSSR_pain_74
+    21300144: NDS_NSSR_pain_75
+    21300146: NDS_NSSR_pain_76
+    21300148: NDS_NSSR_pain_77
+    21300150: NDS_NSSR_pain_78
+    21300152: NDS_NSSR_pain_79
+    21300154: NDS_NSSR_pain_80
+    21300156: NDS_NSSR_pain_81
+    21300158: NDS_NSSR_pain_82
+    21300160: NDS_NSSR_pain_83
+    21300162: NDS_NSSR_pain_84
+    21300164: NDS_NSSR_pain_85
+    21300166: NDS_NSSR_pain_86
+    21300168: NDS_NSSR_pain_87
+    21300170: NDS_NSSR_pain_88
+    21300172: NDS_NSSR_pain_89
+    21300174: NDS_NSSR_pain_90
+    21300176: NDS_NSSR_pain_91
+    21300178: NDS_NSSR_pain_92
+    21300180: NDS_NSSR_pain_93
+    21300182: NDS_NSSR_pain_94
+    21300184: NDS_NSSR_pain_95
+    21300186: NDS_NSSR_pain_96
+    21300188: NDS_NSSR_pain_97
+    21300190: NDS_NSSR_pain_98
+    21300192: NDS_NSSR_pain_99
+    21300194: NDS_NSSR_pain_100
+    21300196: NDS_NSSR_pain_101
+    21300198: NDS_NSSR_pain_102
+    21300200: NDS_NSSR_pain_103
+    21300202: NDS_NSSR_pain_104
+    21300204: NDS_NSSR_pain_105
+    21300206: NDS_NSSR_pain_106
+    21300208: NDS_NSSR_pain_107
+    21300210: NDS_NSSR_pain_108
+    21300212: NDS_NSSR_pain_109
+    21300214: NDS_NSSR_pain_110
+    21300216: NDS_NSSR_pain_111
+    21300218: NDS_NSSR_pain_112
+    21300220: NDS_NSSR_pain_113
+    21300222: NDS_NSSR_pain_114
+    21300224: NDS_NSSR_pain_115
+    21300226: NDS_NSSR_pain_116
+    21300228: NDS_NSSR_pain_117
+    21300230: NDS_NSSR_pain_118
+    21300232: NDS_NSSR_pain_119
+    21300234: NDS_NSSR_pain_120
+    21300236: NDS_NSSR_pain_121
+    21300238: NDS_NSSR_pain_122
+    21300240: NDS_NSSR_pain_123
+    21300242: NDS_NSSR_pain_124
+    21300244: NDS_NSSR_pain_125
+    21300246: NDS_NSSR_pain_126
+    21300248: NDS_NSSR_pain_127
+    21300250: NDS_NSSR_pain_128
+    21300252: NDS_NSSR_pain_129
+    21300254: NDS_NSSR_pain_130
+    21300256: NDS_NSSR_pain_131
+    21300258: NDS_NSSR_pain_132
+    21300260: NDS_NSSR_pain_133
+    21300262: NDS_NSSR_pain_134
+    21300264: NDS_NSSR_pain_135
+    21300266: NDS_NSSR_pain_136
+    21300268: NDS_NSSR_pain_137
+    21300270: NDS_NSSR_pain_138
+    21300272: NDS_NSSR_pain_139
+    21300274: NDS_NSSR_pain_140
+    21300276: NDS_NSSR_pain_141
+    21300278: NDS_NSSR_pain_142
+    21300280: NDS_NSSR_pain_143
+    21300282: NDS_NSSR_pain_144
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1660
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1660
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1660
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1660
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1660
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1660
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1660
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1660
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_8
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1660
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1572
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1572
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1572
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1572
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1572
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1572
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1572
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1597
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1597
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_18
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1597
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_19
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1597
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_20
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1597
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_21
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1597
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_22
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1597
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_23
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1574
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1562
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_25
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1562
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1573
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1494
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1487
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1482
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1488
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_31
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1530
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_32
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1533
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_33
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1516
+        width: 101
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_34
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1511
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_35
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1513
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_36
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1528
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_37
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1528
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_38
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1528
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_39
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1519
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_40
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1513
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1393
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_42
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1393
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1393
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_44
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1393
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1393
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_46
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1393
+        width: 25
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1306
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1306
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1306
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_53
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1306
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_54
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1306
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1217
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1217
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1217
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_58
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1217
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1128
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1140
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1140
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1045
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1053
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_64
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1053
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_65
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1045
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_66
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1051
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_67
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1044
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_68
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1045
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_69
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1044
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_70
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1050
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_71
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1049
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 949
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_73
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 948
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_74
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 953
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_75
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 953
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_76
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 953
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_77
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 953
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 859
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 859
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_80
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 859
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_81
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 859
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_82
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 859
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_83
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 859
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_84
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 770
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_85
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 770
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_86
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 770
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_87
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 770
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_88
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 772
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_89
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 772
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_90
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 772
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_91
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 772
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_92
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 681
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_93
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 681
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_94
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 681
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_95
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 681
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_96
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 681
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_97
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 681
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_98
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 681
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_99
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 681
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_100
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 681
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_101
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 681
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_102
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 593
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_103
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 593
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_104
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 593
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_105
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 597
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_106
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 593
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_107
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 595
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_108
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 592
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_109
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 594
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_110
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 504
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 505
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_112
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 503
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_113
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 503
+        width: 85
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_114
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 504
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_115
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 504
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_116
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 504
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_117
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 415
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_118
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 415
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_119
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 415
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_120
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 415
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_121
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 415
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_122
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 415
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_123
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 325
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_124
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 325
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_125
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 325
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_126
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 236
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_127
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 236
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_128
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 236
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 147
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_130
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 147
+        width: 26
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_131
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 147
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_132
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 147
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_133
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_134
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 75
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_135
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 80
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_136
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 78
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_137
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1
+        width: 125
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_138
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_139
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_140
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_141
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_142
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_143
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NDS_NSSR_pain_144
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

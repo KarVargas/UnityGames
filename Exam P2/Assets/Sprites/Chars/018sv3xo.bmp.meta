@@ -1,0 +1,1991 @@
+fileFormatVersion: 2
+guid: 6a256024a7a2b1741bb5e9c57f2f1df2
+timeCreated: 1522636796
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 018sv3xo_0
+    21300002: 018sv3xo_1
+    21300004: 018sv3xo_2
+    21300006: 018sv3xo_3
+    21300008: 018sv3xo_4
+    21300010: 018sv3xo_5
+    21300012: 018sv3xo_6
+    21300014: 018sv3xo_7
+    21300016: 018sv3xo_8
+    21300018: 018sv3xo_9
+    21300020: 018sv3xo_10
+    21300022: 018sv3xo_11
+    21300024: 018sv3xo_12
+    21300026: 018sv3xo_13
+    21300028: 018sv3xo_14
+    21300030: 018sv3xo_15
+    21300032: 018sv3xo_16
+    21300034: idle
+    21300036: run_0
+    21300038: run_1
+    21300040: 018sv3xo_20
+    21300042: 018sv3xo_21
+    21300044: 018sv3xo_22
+    21300046: 018sv3xo_23
+    21300048: guard_0
+    21300050: guard_1
+    21300052: 018sv3xo_26
+    21300054: guard_2
+    21300056: 018sv3xo_28
+    21300058: 018sv3xo_29
+    21300060: 018sv3xo_30
+    21300062: 018sv3xo_31
+    21300064: 018sv3xo_32
+    21300066: 018sv3xo_33
+    21300068: 018sv3xo_34
+    21300070: 018sv3xo_35
+    21300072: 018sv3xo_36
+    21300074: 018sv3xo_37
+    21300076: 018sv3xo_38
+    21300078: 018sv3xo_39
+    21300080: 018sv3xo_40
+    21300082: 018sv3xo_41
+    21300084: 018sv3xo_42
+    21300086: 018sv3xo_43
+    21300088: 018sv3xo_44
+    21300090: 018sv3xo_45
+    21300092: 018sv3xo_46
+    21300094: 018sv3xo_47
+    21300096: 018sv3xo_48
+    21300098: 018sv3xo_49
+    21300100: 018sv3xo_50
+    21300102: 018sv3xo_51
+    21300104: 018sv3xo_52
+    21300106: 018sv3xo_53
+    21300108: 018sv3xo_54
+    21300110: 018sv3xo_55
+    21300112: 018sv3xo_56
+    21300114: 018sv3xo_57
+    21300116: 018sv3xo_58
+    21300118: 018sv3xo_59
+    21300120: 018sv3xo_60
+    21300122: 018sv3xo_61
+    21300124: 018sv3xo_62
+    21300126: 018sv3xo_63
+    21300128: 018sv3xo_64
+    21300130: 018sv3xo_65
+    21300132: 018sv3xo_66
+    21300134: 018sv3xo_67
+    21300136: 018sv3xo_68
+    21300138: 018sv3xo_69
+    21300140: 018sv3xo_70
+    21300142: 018sv3xo_71
+    21300144: 018sv3xo_72
+    21300146: 018sv3xo_73
+    21300148: 018sv3xo_74
+    21300150: 018sv3xo_75
+    21300152: 018sv3xo_76
+    21300154: 018sv3xo_77
+    21300156: 018sv3xo_78
+    21300158: 018sv3xo_79
+    21300160: 018sv3xo_80
+    21300162: 018sv3xo_81
+    21300164: 018sv3xo_82
+    21300166: 018sv3xo_83
+    21300168: 018sv3xo_84
+    21300170: 018sv3xo_85
+    21300172: 018sv3xo_86
+    21300174: 018sv3xo_87
+    21300176: 018sv3xo_88
+    21300178: 018sv3xo_89
+    21300180: 018sv3xo_90
+    21300182: 018sv3xo_91
+    21300184: 018sv3xo_92
+    21300186: 018sv3xo_93
+    21300188: 018sv3xo_94
+    21300190: 018sv3xo_95
+    21300192: 018sv3xo_96
+    21300194: jump_1
+    21300196: jump_2
+    21300198: jump_3
+    21300200: 018sv3xo_100
+    21300202: 018sv3xo_101
+    21300204: 018sv3xo_102
+    21300206: jump_0
+    21300208: jump_4
+    21300210: 018sv3xo_105
+    21300212: 018sv3xo_106
+    21300214: 018sv3xo_107
+    21300216: 018sv3xo_108
+    21300218: 018sv3xo_109
+    21300220: 018sv3xo_110
+    21300222: 018sv3xo_111
+    21300224: 018sv3xo_112
+    21300226: 018sv3xo_113
+    21300228: 018sv3xo_114
+    21300230: 018sv3xo_115
+    21300232: 018sv3xo_116
+    21300234: 018sv3xo_117
+    21300236: 018sv3xo_118
+    21300238: 018sv3xo_119
+    21300240: 018sv3xo_120
+    21300242: 018sv3xo_121
+    21300244: 018sv3xo_122
+    21300246: 018sv3xo_123
+    21300248: 018sv3xo_124
+    21300250: 018sv3xo_125
+    21300252: 018sv3xo_126
+    21300254: 018sv3xo_127
+    21300256: 018sv3xo_128
+    21300258: 018sv3xo_129
+    21300260: 018sv3xo_130
+    21300262: 018sv3xo_131
+    21300264: 018sv3xo_132
+    21300266: 018sv3xo_133
+    21300268: 018sv3xo_134
+    21300270: 018sv3xo_135
+    21300272: 018sv3xo_136
+    21300274: 018sv3xo_137
+    21300276: 018sv3xo_138
+    21300278: 018sv3xo_139
+    21300280: 018sv3xo_140
+    21300282: 018sv3xo_141
+    21300284: 018sv3xo_142
+    21300286: 018sv3xo_143
+    21300288: 018sv3xo_144
+    21300290: 018sv3xo_145
+    21300292: 018sv3xo_146
+    21300294: 018sv3xo_147
+    21300296: 018sv3xo_148
+    21300298: 018sv3xo_149
+    21300300: 018sv3xo_150
+    21300302: 018sv3xo_151
+    21300304: 018sv3xo_152
+    21300306: 018sv3xo_153
+    21300308: 018sv3xo_154
+    21300310: 018sv3xo_155
+    21300312: 018sv3xo_156
+    21300314: 018sv3xo_157
+    21300316: 018sv3xo_158
+    21300318: 018sv3xo_159
+    21300320: 018sv3xo_160
+    21300322: 018sv3xo_161
+    21300324: 018sv3xo_162
+    21300326: 018sv3xo_163
+    21300328: 018sv3xo_164
+    21300330: 018sv3xo_165
+    21300332: 018sv3xo_166
+    21300334: 018sv3xo_167
+    21300336: 018sv3xo_168
+    21300338: 018sv3xo_169
+    21300340: 018sv3xo_170
+    21300342: 018sv3xo_171
+    21300344: 018sv3xo_172
+    21300346: 018sv3xo_173
+    21300348: 018sv3xo_174
+    21300350: 018sv3xo_175
+    21300352: 018sv3xo_176
+    21300354: 018sv3xo_177
+    21300356: 018sv3xo_178
+    21300358: 018sv3xo_179
+    21300360: 018sv3xo_180
+    21300362: 018sv3xo_181
+    21300364: 018sv3xo_182
+    21300366: 018sv3xo_183
+    21300368: 018sv3xo_184
+    21300370: 018sv3xo_185
+    21300372: 018sv3xo_186
+    21300374: 018sv3xo_187
+    21300376: 018sv3xo_188
+    21300378: 018sv3xo_189
+    21300380: 018sv3xo_190
+    21300382: 018sv3xo_191
+    21300384: 018sv3xo_192
+    21300386: 018sv3xo_193
+    21300388: 018sv3xo_194
+    21300390: 018sv3xo_195
+    21300392: 018sv3xo_196
+    21300394: 018sv3xo_197
+    21300396: 018sv3xo_198
+    21300398: 018sv3xo_199
+    21300400: 018sv3xo_200
+    21300402: 018sv3xo_201
+    21300404: 018sv3xo_202
+    21300406: 018sv3xo_203
+    21300408: 018sv3xo_204
+    21300410: 018sv3xo_205
+    21300412: 018sv3xo_206
+    21300414: 018sv3xo_207
+    21300416: 018sv3xo_208
+    21300418: 018sv3xo_209
+    21300420: 018sv3xo_210
+    21300422: 018sv3xo_211
+    21300424: 018sv3xo_212
+    21300426: 018sv3xo_213
+    21300428: 018sv3xo_214
+    21300430: 018sv3xo_215
+    21300432: 018sv3xo_216
+    21300434: 018sv3xo_217
+    21300436: 018sv3xo_218
+    21300438: 018sv3xo_219
+    21300440: 018sv3xo_220
+    21300442: 018sv3xo_221
+    21300444: 018sv3xo_222
+    21300446: 018sv3xo_223
+    21300448: 018sv3xo_224
+    21300450: 018sv3xo_225
+    21300452: 018sv3xo_226
+    21300454: 018sv3xo_227
+    21300456: 018sv3xo_228
+    21300458: 018sv3xo_229
+    21300460: 018sv3xo_230
+    21300462: 018sv3xo_231
+    21300464: 018sv3xo_232
+    21300466: 018sv3xo_233
+    21300468: 018sv3xo_234
+    21300470: 018sv3xo_235
+    21300472: 018sv3xo_236
+    21300474: 018sv3xo_237
+    21300476: 018sv3xo_238
+    21300478: 018sv3xo_239
+    21300480: 018sv3xo_240
+    21300482: 018sv3xo_241
+    21300484: 018sv3xo_242
+    21300486: 018sv3xo_243
+    21300488: 018sv3xo_244
+    21300490: 018sv3xo_245
+    21300492: 018sv3xo_246
+    21300494: 018sv3xo_247
+    21300496: 018sv3xo_248
+    21300498: 018sv3xo_249
+    21300500: 018sv3xo_250
+    21300502: 018sv3xo_251
+    21300504: 018sv3xo_252
+    21300506: 018sv3xo_253
+    21300508: 018sv3xo_254
+    21300510: 018sv3xo_255
+    21300512: 018sv3xo_256
+    21300514: 018sv3xo_257
+    21300516: 018sv3xo_258
+    21300518: 018sv3xo_259
+    21300520: 018sv3xo_260
+    21300522: 018sv3xo_261
+    21300524: 018sv3xo_262
+    21300526: 018sv3xo_263
+    21300528: 018sv3xo_264
+    21300530: 018sv3xo_265
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 018sv3xo_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1024
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1019
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1020
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1021
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1012
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1016
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1016
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1020
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_22
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1020
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_23
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1020
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guard_0
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1020
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guard_1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1020
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guard_2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1020
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 908
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_39
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 908
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_40
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 912
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_41
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 912
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 918
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 920
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 920
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 929
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 954
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_48
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 929
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_49
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 929
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_50
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 912
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_51
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 912
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_52
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 907
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_53
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 907
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_54
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 905
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 948
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 830
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_65
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 830
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 833
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 827
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_68
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 818
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_69
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 818
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 818
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_71
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 818
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_72
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 818
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_73
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 819
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_74
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 829
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_75
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 829
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_77
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 829
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_78
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 829
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_79
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 829
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 736
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 736
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_90
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 736
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_93
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 736
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_94
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 735
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_95
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 735
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_96
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 733
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 729
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 732
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_3
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 732
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_100
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 736
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_102
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 726
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_0
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 721
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 735
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_113
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 574
+        width: 87
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_120
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 569
+        width: 81
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_121
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 643
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_122
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 643
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_123
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 643
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_126
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 643
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_127
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 644
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_128
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 643
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_132
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_133
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 575
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_134
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 620
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_135
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 575
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_136
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 575
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_162
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 552
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_164
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 553
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_165
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 554
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_166
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 560
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_167
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 559
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_200
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 470
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_202
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 471
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_203
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 470
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_204
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 468
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_205
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 468
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_206
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 469
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_207
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 470
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_208
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 498
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_209
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 473
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_210
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 475
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_211
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 492
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_227
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 350
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_228
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 350
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_229
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 334
+        width: 182
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_230
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 325
+        width: 174
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_231
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 330
+        width: 186
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_236
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 208
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_237
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 218
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_238
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 209
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_239
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 107
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_240
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 107
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_241
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 107
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_242
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 107
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_243
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 107
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_244
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 107
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_245
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 135
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_252
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 78
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_253
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 82
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_254
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 77
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_255
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 69
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_256
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_257
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 26
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_258
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 27
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_259
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 73
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_260
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 37
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_261
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 36
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_262
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 30
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_263
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 34
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_264
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 36
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 018sv3xo_265
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 37
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
