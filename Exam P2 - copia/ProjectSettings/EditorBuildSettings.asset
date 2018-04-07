@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Start.unity
+    guid: 688e6b3b30b6bd54290745f323e1e1a6
+  - enabled: 1
+    path: Assets/_Scenes/GameVongola_0.unity
+    guid: 54e5851dcbab157419061b4ce30296dc
+  - enabled: 1
+    path: Assets/_Scenes/GameVongola_1.unity
+    guid: b7b31418bba925a458ade94cb579d9d4
+  - enabled: 1
+    path: Assets/_Scenes/Game_01.unity
+    guid: 11f441b989135f34a98214238e8de01e
+  - enabled: 1
+    path: Assets/_Scenes/Game_02.unity
+    guid: e5c80cb21d7ceeb478b1231527e52b21
+  - enabled: 1
+    path: Assets/_Scenes/Game_03.unity
+    guid: 7e6b1a4703891a04b89ae977e8dcdff2
+  - enabled: 1
+    path: Assets/_Scenes/Game_04.unity
+    guid: 2425374acde834d438251c3aa5d07866
+  - enabled: 1
+    path: Assets/_Scenes/Game_05.unity
+    guid: 35daa2e8705062144b4271132e695359
+  - enabled: 1
+    path: Assets/_Scenes/Win.unity
+    guid: 2ad6c841597a55742bf10135113cf4cc
+  - enabled: 1
+    path: Assets/_Scenes/Lose.unity
+    guid: a5d0a530c71166747aa48531bfddb99d
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/f8132f5620afe194eb09fe769254132e
+    guid: f8132f5620afe194eb09fe769254132e
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/736a9637d17a4e246b610403f08a6254
+    guid: 736a9637d17a4e246b610403f08a6254
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/dad9a50704a90af45982fb60fbb7ea1f
+    guid: dad9a50704a90af45982fb60fbb7ea1f
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/d2ab5f5cfddda554da829250aed5c446
+    guid: d2ab5f5cfddda554da829250aed5c446
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/6d60980df26f3cc44b9ab7f9cbf5d2aa
+    guid: 6d60980df26f3cc44b9ab7f9cbf5d2aa
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/f6ab2f1485012fb4bab4287381d7f7d9
+    guid: f6ab2f1485012fb4bab4287381d7f7d9
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/fb270ba541e192645892a8d4dc05fe29
+    guid: fb270ba541e192645892a8d4dc05fe29
