@@ -8,14 +8,14 @@ public class BuildManager : MonoBehaviour
     [SerializeField]
     private Stack<GameObject> stack;
 
-    public int maxX = 62, maxY = 38, minX = 2, minY = 2;
+    public int maxX, maxY, minX, minY;
     private Vector3 upOffset = new Vector3(0, 0, 4);
     private Vector3 downOffset = new Vector3(0, 0, -4);
     private Vector3 rightOffset = new Vector3(4, 0, 0);
     private Vector3 leftOffset = new Vector3(-4, 0, 0);
 
     private bool upKeyPressed, downKeyPressed, rightKeyPressed, leftKeyPressed, dontMoveTop, dontMoveBot, dontMoveRight, dontMoveLeft;
-    private bool renode, done = false;
+    private bool renode;
 
     public Color nodesColor;
     public Color startpointColor;
@@ -29,7 +29,6 @@ public class BuildManager : MonoBehaviour
 
     public GameObject[] nodesCanBuildThere;
     public GameObject[] nodes;
-    public GameObject[] stacks;
     private GameObject pointer;
     private GameObject pointert;
     //StringBuilder vpointer = new StringBuilder("Way");
@@ -60,7 +59,6 @@ public class BuildManager : MonoBehaviour
         pointerVector   =   startpoint;
         pointerVector   =   new Vector3(2, 1.5f, 2);
         renode          =   false;
-
     }
 
     void BuildMapStartSettings() {
@@ -93,27 +91,22 @@ public class BuildManager : MonoBehaviour
     IEnumerator WaitForKeyDown(KeyCode upArrow, KeyCode downArrow, KeyCode rightArrow, KeyCode leftArrow, KeyCode space)
     {
         Debug.Log("Vamos a ver que esta pasando aqui.");
-        if (pointerVector == endpoint) {
-            done = true;
-        } else {
-            done = false;
-        }
+        bool done = false;
         while (!done) // essentially a "while true", but with a bool to break out naturally
         {
             Debug.Log("Esperando Input");
             if (Input.GetKeyDown(space)) {
                 if (pointer.GetComponent<Renderer>().material.color == startpointColor) {
                     Debug.Log("No hay nodos anteriores a este.");
-                } else {
-                    //pointer = stack.Pop();
+                } /*else {
+                    -//pointer = stack.Pop();
                     //stack.Pop();
                     //pointer.GetComponent<Renderer>().material.color = nodesColor;
                     //pointerVector -= upOffset;
-                    //-ReturnPaintNodesWhereCanBuild();
-                    //pointer = stack.Pop();
+                    -ReturnPaintNodesWhereCanBuild();
                     pointer = stack.Pop();
-                    pointerVector = pointer.transform.position;
-                    /*if ((pointerVector.z + upOffset.z) <= maxY) {
+                    //pointerVector = pointer.transform.position;
+                    if ((pointerVector.z + upOffset.z) <= maxY) {
                         pointerVector = pointer.transform.position - upOffset; //si subes puedes retroceder para abajo, como saber de donde vendre?
                     } /*else if ((pointerVector.z + downOffset.z) <= maxY) {
                         pointerVector = pointer.transform.position - downOffset;
@@ -122,13 +115,13 @@ public class BuildManager : MonoBehaviour
                     } else if ((pointerVector.z + leftOffset.z) >= minY) {
                         pointerVector = pointer.transform.position - leftOffset;
                     }*//*
-                    //renode = true;*/
-                    StartCoroutine(BuildWay());
-                    pointer.tag = "Node";
-                } //renode = false;
+                    //renode = true;
+                    -StartCoroutine(BuildWay());
+                    -pointer.tag = "Node";
+                }*/ //renode = false;
             }
 
-            if (Input.GetKeyDown(upArrow) && pointerVector.z < maxY) {
+            if (Input.GetKeyDown(upArrow)) {
                 /*Vector3 upp = new Vector3(pointerVector.x, pointerVector.y, 38);
                 if (pointerVector.z == upp.z) {Debug.Log("No se puede");
                 } else {*/
@@ -139,7 +132,7 @@ public class BuildManager : MonoBehaviour
                     done = true; // breaks the loop
                 //}
             } else
-            if (Input.GetKeyDown(downArrow) && pointerVector.z > minY) {
+            if (Input.GetKeyDown(downArrow)) {
                 /*Vector3 downn = new Vector3(pointerVector.x, pointerVector.y, 2);
                 if (pointerVector.z == downn.z) {Debug.Log("No se puede");
                 } else { Debug.Log("No se puede");*/
@@ -150,7 +143,7 @@ public class BuildManager : MonoBehaviour
                     done = true; // breaks the loop
                 //}
             } else
-            if (Input.GetKeyDown(rightArrow) && pointerVector.x < maxX) {
+            if (Input.GetKeyDown(rightArrow)) {
                 /*Vector3 rightt = new Vector3(62, pointerVector.y, pointerVector.z);
                 if (pointerVector.x == rightt.x) {Debug.Log("No se puede");
                 } else {*/
@@ -161,7 +154,7 @@ public class BuildManager : MonoBehaviour
                     done = true; // breaks the loop
                 //}
             } else
-            if (Input.GetKeyDown(leftArrow) && pointerVector.x > minX) {
+            if (Input.GetKeyDown(leftArrow)) {
                 /*Vector3 leftt = new Vector3(2, pointerVector.y, pointerVector.z);
                 if (pointerVector.x == leftt.x) {Debug.Log("No se puede");
                 } else {*/
@@ -192,7 +185,7 @@ public class BuildManager : MonoBehaviour
             }
             if ((pointerVector + upOffset) == node.transform.position && (pointerVector.z + upOffset.z) <= maxY) //REPARAR QUE CUANDO SE SALGA DE LOS LÍMITES VUELVA A REPETIR EL CICLO HACIA DONDE QUIERE AVANZAR
             {
-                if ((node.GetComponent<Renderer>().material.color != startpointColor) && done == false/*&& node.GetComponent<Renderer>().material.color != endpointColor*/)
+                if ((node.GetComponent<Renderer>().material.color != startpointColor) && node.GetComponent<Renderer>().material.color != endpointColor)
                 {
                     if (node.tag == "Node") {
                         node.GetComponent<Renderer>().material.color = canBuildThereColor;
@@ -202,7 +195,7 @@ public class BuildManager : MonoBehaviour
             }
             if ((pointerVector + downOffset) == node.transform.position && (pointerVector.z + downOffset.z) >= minY) //REPARAR QUE CUANDO SE SALGA DE LOS LÍMITES VUELVA A REPETIR EL CICLO HACIA DONDE QUIERE AVANZAR
             {
-                if ((node.GetComponent<Renderer>().material.color != startpointColor) && done == false/*&& node.GetComponent<Renderer>().material.color != endpointColor*/)
+                if ((node.GetComponent<Renderer>().material.color != startpointColor) && node.GetComponent<Renderer>().material.color != endpointColor)
                 {
                     if (node.tag == "Node") {
                         node.GetComponent<Renderer>().material.color = canBuildThereColor;
@@ -212,7 +205,7 @@ public class BuildManager : MonoBehaviour
             }
             if ((pointerVector + rightOffset) == node.transform.position && (pointerVector.z + rightOffset.z) <= maxX)//REPARAR QUE CUANDO SE SALGA DE LOS LÍMITES VUELVA A REPETIR EL CICLO HACIA DONDE QUIERE AVANZAR
             {
-                if ((node.GetComponent<Renderer>().material.color != startpointColor) && done == false/*&& node.GetComponent<Renderer>().material.color != endpointColor*/)
+                if ((node.GetComponent<Renderer>().material.color != startpointColor) && node.GetComponent<Renderer>().material.color != endpointColor)
                 {
                     if (node.tag == "Node") {
                         node.GetComponent<Renderer>().material.color = canBuildThereColor;
@@ -222,7 +215,7 @@ public class BuildManager : MonoBehaviour
             }
             if ((pointerVector + leftOffset) == node.transform.position && (pointerVector.z + leftOffset.z) >= minY) //REPARAR QUE CUANDO SE SALGA DE LOS LÍMITES VUELVA A REPETIR EL CICLO HACIA DONDE QUIERE AVANZAR
             {
-                if ((node.GetComponent<Renderer>().material.color != startpointColor) && done == false/*&& node.GetComponent<Renderer>().material.color != endpointColor*/)
+                if ((node.GetComponent<Renderer>().material.color != startpointColor) && node.GetComponent<Renderer>().material.color != endpointColor)
                 {
                     if (node.tag == "Node") {
                         node.GetComponent<Renderer>().material.color = canBuildThereColor;
