@@ -44,8 +44,7 @@ public class BuildManager : MonoBehaviour
         //INPUTS
     }
 
-    void BuildStartSettings()
-    {
+    void BuildStartSettings() {
         dontMoveTop     =   false;
         dontMoveBot     =   false;
         dontMoveRight   =   false;
@@ -105,26 +104,7 @@ public class BuildManager : MonoBehaviour
                 if (pointer.GetComponent<Renderer>().material.color == startpointColor) {
                     Debug.Log("No hay nodos anteriores a este.");
                 } else {
-                    //pointer = stack.Pop();
-                    //stack.Pop();
-                    //pointer.GetComponent<Renderer>().material.color = nodesColor;
-                    //pointerVector -= upOffset;
-                    //-ReturnPaintNodesWhereCanBuild();
-                    //pointer = stack.Pop();
-                    pointer = stack.Pop();
-                    pointerVector = pointer.transform.position;
-                    /*if ((pointerVector.z + upOffset.z) <= maxY) {
-                        pointerVector = pointer.transform.position - upOffset; //si subes puedes retroceder para abajo, como saber de donde vendre?
-                    } /*else if ((pointerVector.z + downOffset.z) <= maxY) {
-                        pointerVector = pointer.transform.position - downOffset;
-                    } /*else if ((pointerVector.z + rightOffset.z) <= maxX) {
-                        pointerVector = pointer.transform.position - rightOffset;
-                    } else if ((pointerVector.z + leftOffset.z) >= minY) {
-                        pointerVector = pointer.transform.position - leftOffset;
-                    }*//*
-                    //renode = true;*/
-                    StartCoroutine(BuildWay());
-                    pointer.tag = "Node";
+                    ReturnNodes();
                 } //renode = false;
             }
 
@@ -179,6 +159,35 @@ public class BuildManager : MonoBehaviour
         downKeyPressed = false;
         rightKeyPressed = false;
         leftKeyPressed = false;*/
+    }
+
+    void ReturnNodes() {
+        foreach (GameObject node in nodes) {
+            //pointer = stack.Pop();
+            pointer = stack.Pop();
+            //pointer.GetComponent<Renderer>().material.color = nodesColor;
+            //pointerVector -= upOffset;
+            ReturnPaintNodesWhereCanBuild();
+            //pointer = stack.Pop();
+            pointerVector = pointer.transform.position;
+            //if ((pointerVector + upOffset) == node.transform.position && (pointerVector.z + upOffset.z) <= maxY) {
+                //if (node.GetComponent<Renderer>().material.color == canBuildThereColor) {
+                    //pointerVector = pointer.transform.position - upOffset;
+                //}
+            //}
+            /*if ((pointerVector.z + upOffset.z) <= maxY) {
+                pointerVector = pointer.transform.position - upOffset; //si subes puedes retroceder para abajo, como saber de donde vendre?
+            } /*else if ((pointerVector.z + downOffset.z) >= minY) {
+                pointerVector = pointer.transform.position - downOffset; //si bajo, regreso arriba
+            } /*else if ((pointerVector.z + rightOffset.z) <= maxX) {
+                pointerVector = pointer.transform.position - rightOffset; //si derecho, regreso izquierdo
+            } /*else if ((pointerVector.z + leftOffset.z) >= minY) {
+                pointerVector = pointer.transform.position - leftOffset; //si izquierdo, regreso derecho
+            }/*
+            //renode = true;*/
+            StartCoroutine(BuildWay());
+            pointer.tag = "Node";
+        }
     }
 
     void PaintNodesWhereCanBuild() {
